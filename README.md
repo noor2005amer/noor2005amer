@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Noor 👋
 
-<!--
-**noor2005amer/noor2005amer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science undergraduate at GIFT University (Gujranwala, Pakistan), with a background in medical sciences before switching into CS. I'm a self learner, and I build and document real projects rather than tutorials.
 
-Here are some ideas to get you started:
+What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🩸 Blood Bank Management System (BBMS): a PostgreSQL based system covering concurrency control, stored procedures, triggers, and audit logging 
+🎓 Gift LMS: a Google Classroom style learning management platform for teachers and students
+
+Skills
+
+PostgreSQL, SQL, Web Development, AI/ML, 8086 Assembly (NASM), Cisco Networking / Packet Tracer, Automata Theory and Formal Languages
+
+Currently
+
+Building skills in AI and ML as a self learner Freelancing in web development, graphic design, and Cisco networking on Fiverr and Guru
+
+📫 Reach me: noor.amer.codes@gmail.com

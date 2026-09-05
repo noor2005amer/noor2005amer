@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Noor Amer</h1>
-<h3 align="center">🎓 BS Computer Science Student | 🤖 Aspiring AI/ML Engineer I'm passionate about Artificial Intelligence, Machine Learning, and Deep Learning. What excites me most is understanding how neural networks learn, how intelligent systems make decisions, and how these technologies can be applied to real-world problems.</h3>
+<h1 align="center">Hi, I'm Noor Amer</h1>
+<h3 align="center"> BS Computer Science Student |  Aspiring AI/ML Engineer I'm passionate about Artificial Intelligence, Machine Learning, and Deep Learning. What excites me most is understanding how neural networks learn, how intelligent systems make decisions, and how these technologies can be applied to real-world problems.</h3>
 
 - 🌱 I’m currently learning **- Python & Machine Learning - Neural Networks and Deep Learning - Data Science - AI-powered applications**
 

@@ -8,6 +8,7 @@
 - 🚀 I'm working toward **becoming an AI/ML Engineer and building a strong foundation in the mathematics, programming, and practical skills needed to create intelligent systems.**
 
 - 📫 How to reach me **noor.amer.codes@gmail.com**
+- ✔ Portfolio **nooramer.vercel.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
